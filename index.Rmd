@@ -23,9 +23,8 @@ mode        : selfcontained # {standalone, draft}
 - test
   - indent
   
-[hyperlink](www.google.com)
+[hyperlink](https://www.google.com)
 
-  
 ---
 
 some r code 
